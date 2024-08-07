@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-size: 15px; /* tamanho da font */
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: cornsilk;
+}
+
+#cabecalho{
+    background-color: rgb(202, 159, 129);
+    text-align: center;
+    padding: 15px;
+}
