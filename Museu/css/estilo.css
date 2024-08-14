@@ -1,0 +1,10 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+#cabecalho{
+    background-color: rgb(61, 47, 38);
+    text-align: left;
+    padding: 30px;
+}
