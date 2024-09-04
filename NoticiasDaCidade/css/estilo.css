@@ -1,0 +1,26 @@
+
+#container {
+width: 750px;
+margin: 0 auto;
+}
+
+label {
+display: block;
+cursor: pointer;
+}
+
+#cabecalho{
+    background-color: #1039aa
+    text-align center;
+    padding: 15px;
+}
+
+body{
+    font-size: 15px;
+    font-family: 'Trebuchet MS', 'Helvetica', 'sans-serif';
+    background-color: rgb(23, 110, 224);
+}
+
+
+
+
