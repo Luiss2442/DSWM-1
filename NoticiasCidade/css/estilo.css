@@ -240,7 +240,6 @@ h3 {
 
 /* Responsividade */
 
-/* Celulares (por exemplo, até 576px) */
 @media (max-width: 575.98px) {
 	#container {
 		width: 100%;
@@ -276,7 +275,6 @@ h3 {
 	}
 }
 
-/* Tablets (de 576px a 767px) */
 @media (min-width: 576px) and (max-width: 767.98px) {
 	#container {
 		width: 90%;
@@ -319,7 +317,6 @@ h3 {
 	}
 }
 
-/* Notebooks (de 768px a 991px) */
 @media (min-width: 768px) and (max-width: 991.98px) {
 	#container {
 		width: 80%;
